@@ -1,5 +1,5 @@
 /*********************************************************************************************************************************************************************************
- * Objetivo: Criar uma API para o projeto do Whatsapp que a equipe de Front-End ainda irá desenvolver.
+ * Objetivo: Criar uma API para o projeto do Whatsapp que a equipe de Front-End ainda irá desenvolver
  * Data: 28/01/2025
  * Autor: Laura
  * Versão: 1.0
